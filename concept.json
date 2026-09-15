@@ -1,0 +1,11 @@
+{
+  "slug": "contract-artifact-card",
+  "name": "Contract Artifact Card",
+  "kind": "evm",
+  "description": "Generate a clean, shareable contract deployment and permissions card.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
