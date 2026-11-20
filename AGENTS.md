@@ -8,7 +8,7 @@ Generate a clean, shareable contract deployment and permissions card.
 
 - Source: https://github.com/nirholas/contract-artifact-card
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
